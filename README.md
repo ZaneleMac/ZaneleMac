@@ -1,16 +1,34 @@
-## Hi there 👋
+## Hi, I'm Zanele Machava👋
 
-<!--
-**ZaneleMac/ZaneleMac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final year Computer Science Student
+Aspiring Backend developer 
+Interested in Cloud Engineering and Debugging Systems
+Passionate about problem solving , logic, and analytical thinking 
+building backend projects to grow my skills and portfolio
 
-Here are some ideas to get you started:
+## Technologies and Tools I use
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages:** Javascript, Python
+**Backend:** FastAPI, Flask, Node.js(basics)
+**Databases:** PostgreSql, MySql
+**Tools:** Git, GiyHub, Postman
+**Other Interest** Cloud (AWS/AZURE ), Dev tools, System debugging
+
+##What I am currently Learning
+
+- Backend system design
+- API development and authentication
+- Database and SQL 
+- Cloud fundamentals
+- Debugging real-world backend workflows
+
+## My goals for 2026
+- Build a strong portfolio in backend plus cloud computing
+- Improve debugging and problem solving skills
+- Land sn internship or junior backend/cloud engineering role
+- Continuously grow my Github with clean documented projects
+
+##Connect With Me
+- **Github:** [ZaneleMac] (https://github.com/ZaneleMac)
+
+🌹Thanks for visiting my profile! I'm constantly improving and exploring  new backend tecnologies
