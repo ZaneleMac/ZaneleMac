@@ -1,34 +1,49 @@
-## Hi, I'm Zanele Machava👋
+# Hi there, I'm Zanele Machava 👋
 
-Final year Computer Science Student
-Aspiring Backend developer 
-Interested in Cloud Engineering and Debugging Systems
-Passionate about problem solving , logic, and analytical thinking 
-building backend projects to grow my skills and portfolio
+🎓 **Computer Science Graduate | Aspiring Backend & Cloud Engineer**
 
-## Technologies and Tools I use
+I am passionate about backend application architecture, system debugging, and database management. I focus on building, maintaining, and optimizing web application systems, creating structured projects to grow my technical expertise and portfolio. 
 
-**Languages:** Javascript, Python
-**Backend:** FastAPI, Flask, Node.js(basics)
-**Databases:** PostgreSql, MySql
-**Tools:** Git, GiyHub, Postman
-**Other Interest** Cloud (AWS/AZURE ), Dev tools, System debugging
+---
 
-##What I am currently Learning
+## 🛠️ Technologies & Tools
 
-- Backend system design
-- API development and authentication
-- Database and SQL 
-- Cloud fundamentals
-- Debugging real-world backend workflows
+### Languages & Frameworks
+* **C# / .NET:** ASP.NET Core MVC, Entity Framework Core, Razor Pages, Microsoft Identity
+* **Backend Frameworks:** Node.js, FastAPI, Python, Flask
+* **Web Fundamentals:** HTML5, CSS3, JavaScript
 
-## My goals for 2026
-- Build a strong portfolio in backend plus cloud computing
-- Improve debugging and problem solving skills
-- Land sn internship or junior backend/cloud engineering role
-- Continuously grow my Github with clean documented projects
+### Databases & Cloud
+* **Databases:** PostgreSQL, MySQL, SQL Server, PL/SQL
+* **Cloud & Operations:** Cloud Fundamentals (AWS / Azure), CI/CD concepts
 
-##Connect With Me
-- **Github:** [ZaneleMac] (https://github.com/ZaneleMac)
+### Developer Tools
+* **Tools & IDEs:** Visual Studio, VS Code, Git, GitHub, Postman, SSMS
 
-🌹Thanks for visiting my profile! I'm constantly improving and exploring  new backend tecnologies
+---
+
+## 🎯 What I'm Currently Focusing On
+
+* 🚀 Building full-stack web application projects using **ASP.NET Core MVC & Entity Framework**
+* 🔐 Implementing secure authentication, authorization, and API integration
+* 📊 Database design, query optimization, and schema management using **SQL**
+* 🛠️ System troubleshooting, client-side debugging, and log analysis
+* ☁️ Exploring cloud deployment fundamentals and infrastructure management
+
+---
+
+## 🎯 Goals
+
+* 💼 Secure a Junior Backend, Systems Maintenance, or Cloud Support position
+* 📦 Continuously populate my GitHub profile with clean, production-ready, and well-documented C# / .NET projects
+* 🧪 Strengthen debugging and problem-solving skills across real-world enterprise applications
+
+---
+
+## 📬 Connect With Me
+
+* **GitHub:** [ZaneleMac](https://github.com/ZaneleMac)
+
+---
+
+> 🌹 *Thanks for visiting my profile! I am always building, learning, and improving.*
